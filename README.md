@@ -35,4 +35,5 @@
 - [OneAPM](http://www.oneapm.com/index.html) 应用性能管理,应用性能监控,APM应用性能管理,APM应用性能监控
 
 ### Miscellaneous
+- [free-programming-books](https://github.com/vhf/free-programming-books) Freely available programming books
 - [webtask](https://webtask.io/) Run code with an HTTP call. No provisioning. No deployment.
