@@ -13,6 +13,10 @@
 - [iColor](https://github.com/lvwzhen/icolor) The beautiful color scheme
 - [base16](https://github.com/chriskempson/base16) Syntax highlighting for hackers
 
+### CSS Reset
+- [normalize.css](https://github.com/necolas/normalize.css/) A modern alternative to CSS resets
+- [MiniReset.css](https://github.com/jgthms/minireset.css) A tiny modern CSS reset
+
 ### Notification
 - [Push.js](https://github.com/Nickersoft/push.js) A compact, cross-browser solution for the JavaScript Notifications API
 
