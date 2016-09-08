@@ -9,3 +9,6 @@
 
 ### .travis.yml
 - [Travis WebLint](http://lint.travis-ci.org/) Valid your .tavis.yml file
+
+### License
+- [Choose an open source license](http://choosealicense.com/)
