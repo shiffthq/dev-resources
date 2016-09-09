@@ -23,6 +23,10 @@
 ### Store
 - [store.js](https://github.com/marcuswestin/store.js) ocalStorage wrapper for all browsers without using cookies or flash. Uses localStorage, globalStorage, and userData behavior under the hood
 
+### Date
+- [timeago.js](https://github.com/hustcc/timeago.js) timeago.js is a tiny(~2kb) library used to format date with `*** time ago` statement. eg: '3 hours ago'. No dependences & localization & tiny.
+- [moment](https://github.com/moment/moment) Parse, validate, manipulate, and display dates in javascript.
+
 ### Animation
 - [Animate.js](https://github.com/jshjohnson/Animate) A tiny (5KB) vanilla JS script to trigger animations on elements when they are within the viewport
 - [Move.js](https://github.com/visionmedia/move.js) CSS3 backed JavaScript animation framework
