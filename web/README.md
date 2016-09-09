@@ -20,6 +20,9 @@
 ### Notification
 - [Push.js](https://github.com/Nickersoft/push.js) A compact, cross-browser solution for the JavaScript Notifications API
 
+### Store
+- [store.js](https://github.com/marcuswestin/store.js) ocalStorage wrapper for all browsers without using cookies or flash. Uses localStorage, globalStorage, and userData behavior under the hood
+
 ### Animation
 - [Animate.js](https://github.com/jshjohnson/Animate) A tiny (5KB) vanilla JS script to trigger animations on elements when they are within the viewport
 - [Move.js](https://github.com/visionmedia/move.js) CSS3 backed JavaScript animation framework
