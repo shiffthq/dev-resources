@@ -9,3 +9,6 @@ fragmentation avoidance and scalable concurrency support.
 ### Unit Test
 - [cmock](https://cmocka.org/) An elegant unit testing framework for C with support for mock objects.
 - [Using -Wl,--wrap for mocking in C](http://sircmpwn.github.io/2016/07/19/Using-Wl-wrap-for-mocking-in-C.html)
+
+### Function Pointer
+- [The Function Pointer Tutorials](http://www.newty.de/fpt/index.html)
