@@ -12,3 +12,9 @@ fragmentation avoidance and scalable concurrency support.
 
 ### Function Pointer
 - [The Function Pointer Tutorials](http://www.newty.de/fpt/index.html)
+
+### C10K
+- [The C10K problem](http://www.kegel.com/c10k.html)
+
+### Declaration
+- [Reading C type declarations](http://unixwiz.net/techtips/reading-cdecl.html)
