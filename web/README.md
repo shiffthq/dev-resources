@@ -45,6 +45,10 @@
 ### Device
 - [device.js](https://github.com/matthewhudson/device.js) Device.js makes it easy to write conditional CSS _and/or_ JavaScript based on device operating system (iOS, Android, Blackberry, Windows, Firefox OS, MeeGo), orientation (Portrait vs. Landscape), and type (Tablet vs. Mobile).
 
+### Favicon
+- [favico.js](https://github.com/ejci/favico.js) Make use of your favicon with badges, images or videos
+- [favicon.js](https://github.com/dlom/favicon.js) A tiny (684 bytes) library for changing the favicon
+
 ### Progress
 - [progress.js](https://github.com/usablica/progress.js) ProgressJs is a JavaScript and CSS3 library which help developers to create and manage progress bar for every objects on the page.
 
