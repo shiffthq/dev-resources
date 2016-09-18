@@ -1,5 +1,9 @@
 ## GIT
 
+### Commit Message
+- [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
+- [Commitizen for contributors](https://github.com/commitizen/cz-cli) The commitizen command line utility.
+
 ### CHANGELOG
 - [Keep a CHANGELOG](http://keepachangelog.com/en/0.3.0/) Don’t let your friends dump git logs into CHANGELOGs
 
