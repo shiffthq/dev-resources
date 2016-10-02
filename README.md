@@ -38,3 +38,5 @@
 ### Miscellaneous
 - [free-programming-books](https://github.com/vhf/free-programming-books) Freely available programming books
 - [webtask](https://webtask.io/) Run code with an HTTP call. No provisioning. No deployment.
+- [Nova](http://www.trevordmiller.com/nova/) A color scheme for modern web development
+
