@@ -1,5 +1,8 @@
 ## Algorithms that maybe helpful
 
+### Algorithm Visualization
+- [VisuAlgo](http://visualgo.net/) visualising data structures and algorithms through animation
+
 ### Bloom Filter
 - [Bloom Filters by Example](http://billmill.org/bloomfilter-tutorial/)
 - [How to write a Bloom filter in C++](http://blog.michaelschmatz.com/2016/04/11/how-to-write-a-bloom-filter-cpp/)
