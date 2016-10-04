@@ -1,5 +1,8 @@
 ## Algorithms that maybe helpful
 
+### Time complexity and Big-O notation
+- [Big-O Complexity Chart](http://bigocheatsheet.com/) Big-O Algorithm Complexity Cheat Sheet
+
 ### Algorithm Visualization
 - [VisuAlgo](http://visualgo.net/) visualising data structures and algorithms through animation
 
