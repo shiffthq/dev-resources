@@ -13,6 +13,7 @@
 - [iColor](https://github.com/lvwzhen/icolor) The beautiful color scheme
 - [base16](https://github.com/chriskempson/base16) Syntax highlighting for hackers
 - [colors.css](https://github.com/mrmrs/colors) Smarter defaults for colors on the web.
+- [Open color](https://github.com/yeun/open-color) Color scheme for UI design.
 
 ### CSS Reset
 - [normalize.css](https://github.com/necolas/normalize.css/) A modern alternative to CSS resets
