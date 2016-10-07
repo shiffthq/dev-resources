@@ -23,6 +23,7 @@
 
 ### CI / CD
 - [Travis](https://travis-ci.org/) Test and Deploy Your Code with Confidence
+- [MagnumCI](https://magnum-ci.com/) Hosted Continuous Integration Platform for Private Repositories
 
 ### Dependency Track
 - [Greenkeeper](https://greenkeeper.io/) It tracks your dependencies and applies an update to a branch for every new version coming in.
