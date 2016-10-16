@@ -55,6 +55,7 @@
 
 ### Progress
 - [progress.js](https://github.com/usablica/progress.js) ProgressJs is a JavaScript and CSS3 library which help developers to create and manage progress bar for every objects on the page.
+- [PROGRESS BAR.JS](https://github.com/kimmobrunfeldt/progressbar.js) Responsive and slick progress bars
 
 ### Buttons
 - [Buttons](https://github.com/alexwolfe/Buttons) A CSS button library built using Sass and Compass
@@ -66,5 +67,6 @@
 - [layzr.js](https://github.com/callmecavs/layzr.js) A small, fast, and modern library for lazy loading images.
 
 ### Miscellaneous
+- [Headroom.js](https://github.com/WickyNilliams/headroom.js) Give your pages some headroom. Hide your header until you need it
 - [magic-of-css](https://github.com/adamschwartz/magic-of-css) A CSS course for web developers who want to be magicians.
 - [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) Manually curated collection of resources for frontend web developers.
