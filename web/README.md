@@ -66,6 +66,9 @@
 ### Lazy Loading
 - [layzr.js](https://github.com/callmecavs/layzr.js) A small, fast, and modern library for lazy loading images.
 
+### OCR
+- [Tesseract.js](https://github.com/naptha/tesseract.js) Pure Javascript OCR for 62 Languages
+
 ### Miscellaneous
 - [Headroom.js](https://github.com/WickyNilliams/headroom.js) Give your pages some headroom. Hide your header until you need it
 - [magic-of-css](https://github.com/adamschwartz/magic-of-css) A CSS course for web developers who want to be magicians.
