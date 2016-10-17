@@ -72,4 +72,5 @@
 ### Miscellaneous
 - [Headroom.js](https://github.com/WickyNilliams/headroom.js) Give your pages some headroom. Hide your header until you need it
 - [magic-of-css](https://github.com/adamschwartz/magic-of-css) A CSS course for web developers who want to be magicians.
+- [YouMightNotNeedJS](https://github.com/una/YouMightNotNeedJS/) You Might Not Need JavaScript
 - [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) Manually curated collection of resources for frontend web developers.
