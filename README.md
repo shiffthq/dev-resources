@@ -8,7 +8,6 @@
 ### Static Website
 - [Surge.sh](https://surge.sh/) Static web publishing for Front-End Developers.
 - [Github Pages](https://pages.github.com) Websites for you and your projects.
-- [PubStorm](https://www.pubstorm.com/) Free Web Publishingand Hosting for Developers
 
 ### NodeJS Deploy
 - [Now](https://zeit.co/now) realtime node.js deployments
