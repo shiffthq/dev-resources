@@ -42,6 +42,7 @@
 - [css-loaders](https://github.com/lukehaas/css-loaders) A collection of loading spinners animated with CSS
 - [SpinKit](https://github.com/tobiasahlin/SpinKit) A collection of loading indicators animated with CSS
 - [text-spinners](http://tawian.io/text-spinners/) Pure text, CSS only, font independent, inline loading indicators
+- [CSSPIN](https://github.com/webkul/csspin) CSS Spinners and Loaders - Modular, Customizable and Single HTML Element Code
 
 ### Clipboard
 - [clipboard.js](https://github.com/zenorocha/clipboard.js/) Modern copy to clipboard. No Flash. Just 3kb gzipped
