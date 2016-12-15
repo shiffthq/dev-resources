@@ -77,3 +77,4 @@
 - [YouMightNotNeedJS](https://github.com/una/YouMightNotNeedJS/) You Might Not Need JavaScript
 - [Fuse.js](https://github.com/krisk/fuse) Lightweight fuzzy-search, in JavaScript, with zero dependencies
 - [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) Manually curated collection of resources for frontend web developers.
+- [cssreference](http://cssreference.io/) A free visual guide to CSS
