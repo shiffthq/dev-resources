@@ -78,3 +78,4 @@
 - [Fuse.js](https://github.com/krisk/fuse) Lightweight fuzzy-search, in JavaScript, with zero dependencies
 - [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) Manually curated collection of resources for frontend web developers.
 - [cssreference](http://cssreference.io/) A free visual guide to CSS
+- [BEM](http://getbem.com/) Block Element Modifier is a methodology that helps you to create reusable components and code sharing in front-end development
