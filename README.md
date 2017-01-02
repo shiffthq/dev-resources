@@ -40,3 +40,4 @@
 - [webtask](https://webtask.io/) Run code with an HTTP call. No provisioning. No deployment.
 - [Nova](http://www.trevordmiller.com/nova/) A color scheme for modern web development
 - [kap](https://getkap.co/) An open-source screen recorder built with web technology
+- [LICEcap](http://www.cockos.com/licecap/) simple animated screen captures
