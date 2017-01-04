@@ -41,6 +41,7 @@
 - [Nova](http://www.trevordmiller.com/nova/) A color scheme for modern web development
 - [kap](https://getkap.co/) An open-source screen recorder built with web technology
 - [LICEcap](http://www.cockos.com/licecap/) simple animated screen captures
+- [Snip](https://www.snipaste.com/index.html) Snip, then paste
 
 ### Network Debug
 [Network Link Conditioner](http://nshipster.com/network-link-conditioner/)
