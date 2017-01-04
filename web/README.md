@@ -54,6 +54,9 @@
 ### Device
 - [device.js](https://github.com/matthewhudson/device.js) Device.js makes it easy to write conditional CSS _and/or_ JavaScript based on device operating system (iOS, Android, Blackberry, Windows, Firefox OS, MeeGo), orientation (Portrait vs. Landscape), and type (Tablet vs. Mobile).
 
+### ICON
+- [cssicon](http://cssicon.space/) icon set made with pure css code, no dependencies, "grab and go" icons
+
 ### Favicon
 - [favico.js](https://github.com/ejci/favico.js) Make use of your favicon with badges, images or videos
 - [favicon.js](https://github.com/dlom/favicon.js) A tiny (684 bytes) library for changing the favicon
