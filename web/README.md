@@ -74,6 +74,9 @@
 ### OCR
 - [Tesseract.js](https://github.com/naptha/tesseract.js) Pure Javascript OCR for 62 Languages
 
+### PDF
+- [jsPDF](https://github.com/MrRio/jsPDF) Client-side JavaScript PDF generation for everyone.
+
 ### Miscellaneous
 - [Headroom.js](https://github.com/WickyNilliams/headroom.js) Give your pages some headroom. Hide your header until you need it
 - [magic-of-css](https://github.com/adamschwartz/magic-of-css) A CSS course for web developers who want to be magicians.
