@@ -6,3 +6,4 @@
 
 ### Tutorial
 - [PyZh(中)](http://pyzh.readthedocs.io/en/latest/index.html)
+- [Python Cheatsheet](https://www.pythonsheets.com/)
