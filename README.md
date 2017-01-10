@@ -42,6 +42,7 @@
 - [kap](https://getkap.co/) An open-source screen recorder built with web technology
 - [LICEcap](http://www.cockos.com/licecap/) simple animated screen captures
 - [Snip](https://www.snipaste.com/index.html) Snip, then paste
+- [dply](https://dply.co/) Create a cloud server `FREE` for 2 hours, add more time as you need it.
 
 ### Network Debug
 [Network Link Conditioner](http://nshipster.com/network-link-conditioner/)
