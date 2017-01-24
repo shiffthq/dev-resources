@@ -9,3 +9,6 @@
 ### Newsletters
 - [MailChimp](http://mailchimp.com/) Send better email. Sell more stuff.
 - [TinyLetter](http://tinyletter.com/) Email for people with something to say.
+
+### Test
+- [PutsMail](https://putsmail.com/) est your HTML emails before sending them!
