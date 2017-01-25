@@ -5,6 +5,7 @@
 - [maingun/transactional-email-templates](https://github.com/mailgun/transactional-email-templates) Responsive transactional HTML email templates
 - [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template) When all you need is a really simple HTML email template.
 - [mailgen](https://github.com/eladnava/mailgen) A Node.js package that generates clean, responsive HTML e-mails for sending transactional mail.
+- [litmus](https://litmus.com/community/templates) Modern email templates designed by the best email designers in the business. Easy to use and completely free.
 
 ### Newsletters
 - [MailChimp](http://mailchimp.com/) Send better email. Sell more stuff.
@@ -12,3 +13,6 @@
 
 ### Test
 - [PutsMail](https://putsmail.com/) est your HTML emails before sending them!
+
+### Blogs
+- [An Introduction To Building And Sending HTML Email For Web Developers](https://www.smashingmagazine.com/2017/01/introduction-building-sending-html-email-for-web-developers/)
