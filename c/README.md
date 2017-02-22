@@ -21,3 +21,7 @@ fragmentation avoidance and scalable concurrency support.
 
 ### Declaration
 - [Reading C type declarations](http://unixwiz.net/techtips/reading-cdecl.html)
+
+### Books
+- [Modern C](http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf)
+
