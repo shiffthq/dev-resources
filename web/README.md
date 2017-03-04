@@ -17,6 +17,7 @@
 - [colors.css](https://github.com/mrmrs/colors) Smarter defaults for colors on the web.
 - [Open color](https://github.com/yeun/open-color) Color scheme for UI design.
 - [Color Hunt](http://www.colorhunt.co/)
+- [Palet Table](http://www.palettable.io/)
 
 ### CSS Reset
 - [normalize.css](https://github.com/necolas/normalize.css/) A modern alternative to CSS resets
