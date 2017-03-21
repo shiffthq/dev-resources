@@ -38,6 +38,7 @@
 - [Animate.js](https://github.com/jshjohnson/Animate) A tiny (5KB) vanilla JS script to trigger animations on elements when they are within the viewport
 - [Move.js](https://github.com/visionmedia/move.js) CSS3 backed JavaScript animation framework
 - [KUTE.js](http://thednp.github.io/kute.js/index.html) KUTE.js is a Javascript animation engine with top performance, memory efficient & modular code. It delivers a whole bunch of tools to help you create great custom animations.
+- [animista](http://animista.net/) CSS animations on demand
 
 ### Tooltips
 - [Balloon.css](https://github.com/kazzkiq/balloon.css) Simple tooltips made of pure CSS
