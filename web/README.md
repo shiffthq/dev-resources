@@ -98,3 +98,4 @@
 - [cssreference](http://cssreference.io/) A free visual guide to CSS
 - [htmlreference](http://htmlreference.io/) A free guide to HTML
 - [BEM](http://getbem.com/) Block Element Modifier is a methodology that helps you to create reusable components and code sharing in front-end development
+- [html & css is hard](https://internetingishard.com/html-and-css/) A friendly web development tutorial for complete beginners
