@@ -89,6 +89,13 @@
 ### PDF
 - [jsPDF](https://github.com/MrRio/jsPDF) Client-side JavaScript PDF generation for everyone.
 
+### Chart
+- [Chart.js](http://www.chartjs.org/) Simple yet flexible JavaScript charting for designers & developers
+- [CHARTIST.JS](http://gionkunz.github.io/chartist-js/) SIMPLE RESPONSIVE CHARTS
+
+### Test
+- [TestCafe](https://devexpress.github.io/testcafe/) Automated browser testing for the modern web development stack.
+
 ### Miscellaneous
 - [Headroom.js](https://github.com/WickyNilliams/headroom.js) Give your pages some headroom. Hide your header until you need it
 - [magic-of-css](https://github.com/adamschwartz/magic-of-css) A CSS course for web developers who want to be magicians.
