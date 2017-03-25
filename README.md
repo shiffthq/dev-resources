@@ -13,9 +13,6 @@
 ### NodeJS Deploy
 - [Now](https://zeit.co/now) realtime node.js deployments
 
-### RegEx
-- [RegExr](http://www.regexr.com/) RegExr is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
-
 ### Code Quality
 - [COVERALLS](https://coveralls.io/) Test Coverage History & Statistics
 - [Codacy](https://www.codacy.com/) Check code style, security, duplication, complexity and coverage on every change while tracking code quality throughout your sprints.
