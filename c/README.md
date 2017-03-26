@@ -22,6 +22,9 @@ fragmentation avoidance and scalable concurrency support.
 ### Declaration
 - [Reading C type declarations](http://unixwiz.net/techtips/reading-cdecl.html)
 
+### FAQs
+- [comp.lang.c Frequently Asked Questions](http://c-faq.com/)
+
 ### Books
 - [Modern C](http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf)
 
