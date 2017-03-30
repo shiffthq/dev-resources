@@ -5,6 +5,7 @@
 - [glot.io](https://glot.io/) glot.io lets you run and share snippets.
 - [JS Bin](http://jsbin.com/) JS Bin is an open source collaborative web development debugging tool.
 - [PLAYCODE](https://playcode.io/) Online Javascript Editer
+- [jsonbin](https://jsonbin.org/) A personal JSON store as a RESTful service
 
 ### Static Website
 - [Surge.sh](https://surge.sh/) Static web publishing for Front-End Developers.
