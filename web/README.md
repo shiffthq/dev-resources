@@ -42,6 +42,7 @@
 
 ### Tooltips
 - [Balloon.css](https://github.com/kazzkiq/balloon.css) Simple tooltips made of pure CSS
+- [Tippy.js](https://github.com/atomiks/tippyjs) A lightweight, pure JS tooltip library
 
 ### Loaders
 - [Loaders.css](https://github.com/ConnorAtherton/loaders.css) Delightful, performance-focused pure css loading animations.
