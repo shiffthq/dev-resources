@@ -30,6 +30,9 @@
 - [store.js](https://github.com/marcuswestin/store.js) ocalStorage wrapper for all browsers without using cookies or flash. Uses localStorage, globalStorage, and userData behavior under the hood
 - [localForage](https://github.com/localForage/localForage) Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 
+### Network
+- [Offline](https://github.com/hubspot/offline) Automatically display online/offline indication to your users.
+
 ### Date
 - [timeago.js](https://github.com/hustcc/timeago.js) timeago.js is a tiny(~2kb) library used to format date with `*** time ago` statement. eg: '3 hours ago'. No dependences & localization & tiny.
 - [moment](https://github.com/moment/moment) Parse, validate, manipulate, and display dates in javascript.
