@@ -12,3 +12,4 @@
 
 ### Code Style
 - [Popular Coding Convention on Github](http://sideeffect.kr/popularconvention) Analyze Github commits to know which convention is popular.
+- [Prettier](https://github.com/prettier/prettier) Prettier is an opinionated JavaScript formatter.
