@@ -22,6 +22,10 @@ fragmentation avoidance and scalable concurrency support.
 ### Declaration
 - [Reading C type declarations](http://unixwiz.net/techtips/reading-cdecl.html)
 
+### Puzzles
+- [C PUZZLES, Some interesting C problems](http://www.gowrikumar.com/c/index.php)
+- [C Puzzles](https://chortle.ccsu.edu/CPuzzles/CPuzzlesMain.html)
+
 ### FAQs
 - [comp.lang.c Frequently Asked Questions](http://c-faq.com/)
 
