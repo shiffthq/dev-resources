@@ -5,6 +5,7 @@
 fragmentation avoidance and scalable concurrency support.
 - [TCMalloc](http://goog-perftools.sourceforge.net/doc/tcmalloc.html) Thread-Caching Malloc
 - [ptmalloc](http://www.malloc.de/en/) A fast, memory-efficient implementation of malloc for Unix systems.
+- [dmalloc](http://dmalloc.com/) The debug memory allocation or dmalloc library has been designed as a drop in replacement for the system's malloc, realloc, calloc, free and other memory management routines while providing powerful debugging facilities configurable at runtime. These facilities include such things as memory-leak tracking, fence-post write detection, file/line number reporting, and general logging of statistics.
 
 ### Bitwise Tricks
 [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
@@ -21,6 +22,10 @@ fragmentation avoidance and scalable concurrency support.
 
 ### Declaration
 - [Reading C type declarations](http://unixwiz.net/techtips/reading-cdecl.html)
+
+### Performance Analysis
+- [gperftools](https://github.com/gperftools/gperftools) gperftools is a collection of a high-performance multi-threaded malloc() implementation, plus some pretty nifty performance analysis tools.
+- [Valgrind](http://valgrind.org/) Valgrind is an instrumentation framework for building dynamic analysis tools. There are Valgrind tools that can automatically detect many memory management and threading bugs, and profile your programs in detail. You can also use Valgrind to build new tools.
 
 ### Puzzles
 - [C PUZZLES, Some interesting C problems](http://www.gowrikumar.com/c/index.php)
