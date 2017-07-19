@@ -27,6 +27,11 @@ fragmentation avoidance and scalable concurrency support.
 - [gperftools](https://github.com/gperftools/gperftools) gperftools is a collection of a high-performance multi-threaded malloc() implementation, plus some pretty nifty performance analysis tools.
 - [Valgrind](http://valgrind.org/) Valgrind is an instrumentation framework for building dynamic analysis tools. There are Valgrind tools that can automatically detect many memory management and threading bugs, and profile your programs in detail. You can also use Valgrind to build new tools.
 
+### Makefile
+- [CMake](https://cmake.org/) CMake is an open-source, cross-platform family of tools designed to build, test and package software.
+- [The magic behind configure, make, make install](https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install)
+- [Autotools flow](./autotools-flow.gif)
+
 ### Puzzles
 - [C PUZZLES, Some interesting C problems](http://www.gowrikumar.com/c/index.php)
 - [C Puzzles](https://chortle.ccsu.edu/CPuzzles/CPuzzlesMain.html)
