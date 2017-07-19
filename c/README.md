@@ -36,6 +36,9 @@ fragmentation avoidance and scalable concurrency support.
 - [C PUZZLES, Some interesting C problems](http://www.gowrikumar.com/c/index.php)
 - [C Puzzles](https://chortle.ccsu.edu/CPuzzles/CPuzzlesMain.html)
 
+### Miscellaneous
+- [Error Helpers in C](http://mattjohnston.co/posts/2017/01/09/error-helpers-in-c.html)
+
 ### FAQs
 - [comp.lang.c Frequently Asked Questions](http://c-faq.com/)
 
