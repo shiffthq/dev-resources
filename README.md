@@ -14,6 +14,7 @@
 ### NodeJS Deploy
 - [Now](https://zeit.co/now) realtime node.js deployments
 - [dawson](https://dawson.sh/) a serverless framework for Node.js on AWS
+- [Denali](http://denalijs.org/) A robust Node.js framework for building ambitious APIs.
 
 ### Code Quality
 - [COVERALLS](https://coveralls.io/) Test Coverage History & Statistics
