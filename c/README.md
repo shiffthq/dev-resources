@@ -29,6 +29,7 @@ fragmentation avoidance and scalable concurrency support.
 
 ### Makefile
 - [CMake](https://cmake.org/) CMake is an open-source, cross-platform family of tools designed to build, test and package software.
+- [Autotools Tutorial](https://www.lrde.epita.fr/~adl/autotools.html) [pdf](./autotools-tutorial.pdf)
 - [The magic behind configure, make, make install](https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install)
 - [Autotools flow](./autotools-flow.gif)
 
