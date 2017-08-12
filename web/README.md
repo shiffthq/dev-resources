@@ -97,6 +97,10 @@
 - [Chart.js](http://www.chartjs.org/) Simple yet flexible JavaScript charting for designers & developers
 - [CHARTIST.JS](http://gionkunz.github.io/chartist-js/) SIMPLE RESPONSIVE CHARTS
 
+### Placeholder
+- [placeholder](https://placeholder.com/) Quick & simple image placeholders.
+- [LoremPixum](http://lorempixel.com/) Placeholder Images for every case.
+
 ### Test
 - [TestCafe](https://devexpress.github.io/testcafe/) Automated browser testing for the modern web development stack.
 
