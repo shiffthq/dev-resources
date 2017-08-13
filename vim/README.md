@@ -9,3 +9,6 @@
 
 ### Tutorials
 - [Interactive Vim tutorial](http://www.openvim.com/)
+
+### Color Schema
+- [Vim Colors](http://vimcolors.com/) vim colorscheme collections
