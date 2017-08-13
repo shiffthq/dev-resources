@@ -16,6 +16,8 @@
 ### Hash Functions
 - [BENCHMARKING HASH FUNCTIONS](https://lonewolfer.wordpress.com/2015/01/05/benchmarking-hash-functions/)
 - [Hash Functions](http://www.cse.yorku.ca/~oz/hash.html)
+- [A Hash Function for Hash Table Lookup](http://www.burtleburtle.net/bob/hash/doobs.html)
+- [Hash functions: An empirical comparison](https://www.strchr.com/hash_functions)
 
 #### MurmurHash
 - [MurmurHash](https://sites.google.com/site/murmurhash/)
