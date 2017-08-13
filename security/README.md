@@ -12,3 +12,6 @@
 
 ### HTTPS
 - [Does my site need HTTPS?](https://doesmysiteneedhttps.com/)
+
+### 验证码
+- [极验](http://www.geetest.com/) 安全智能的验证系统，引领验证码新时代!
