@@ -7,6 +7,7 @@
 
 ### Algorithm Visualization
 - [VisuAlgo](http://visualgo.net/) visualising data structures and algorithms through animation
+- [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 ### Bloom Filter
 - [Bloom Filters by Example](http://billmill.org/bloomfilter-tutorial/)
@@ -27,3 +28,6 @@
 
 #### FarmHash by Google
 - [FarmHash](https://github.com/google/farmhash)
+
+### String
+- [EXACT STRING MATCHING ALGORITHMS](http://www-igm.univ-mlv.fr/%7Elecroq/string/)
