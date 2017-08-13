@@ -73,6 +73,9 @@
 - [Iconic](https://useiconic.com/) Meet Iconic. The definitive icon set designed for the modern web.
 - [LivIcons](https://livicons.com/) Truly Animated SVG Icons
 - [Material icons](https://material.io/icons/) Material Design
+- [Genericons Neue](https://github.com/Automattic/genericons-neue)
+- [Ligature Symbols](http://kudakurage.com/ligature_symbols/)
+- [Fileicon.css](https://github.com/picturepan2/fileicon.css) The customizable pure CSS file icons
 
 ### Favicon
 - [favico.js](https://github.com/ejci/favico.js) Make use of your favicon with badges, images or videos
@@ -113,6 +116,7 @@
 - [Codrops](https://tympanus.net/codrops/) Useful resources and inspiration for creative minds
 
 ### Miscellaneous
+- [How to Center in CSS](http://howtocenterincss.com/)
 - [Headroom.js](https://github.com/WickyNilliams/headroom.js) Give your pages some headroom. Hide your header until you need it
 - [magic-of-css](https://github.com/adamschwartz/magic-of-css) A CSS course for web developers who want to be magicians.
 - [YouMightNotNeedJS](https://github.com/una/YouMightNotNeedJS/) You Might Not Need JavaScript
