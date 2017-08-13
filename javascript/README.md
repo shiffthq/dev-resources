@@ -13,3 +13,7 @@
 ### Code Style
 - [Popular Coding Convention on Github](http://sideeffect.kr/popularconvention) Analyze Github commits to know which convention is popular.
 - [Prettier](https://github.com/prettier/prettier) Prettier is an opinionated JavaScript formatter.
+
+### Miscellaneous
+- [You might not need jQuery](http://youmightnotneedjquery.com/)
+- [You Don't Need jQuery](https://blog.garstasio.com/you-dont-need-jquery/)
