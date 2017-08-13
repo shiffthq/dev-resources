@@ -66,6 +66,7 @@
 - [device.js](https://github.com/matthewhudson/device.js) Device.js makes it easy to write conditional CSS _and/or_ JavaScript based on device operating system (iOS, Android, Blackberry, Windows, Firefox OS, MeeGo), orientation (Portrait vs. Landscape), and type (Tablet vs. Mobile).
 
 ### ICON
+- [You don't need icons](https://tutorialzine.com/2014/12/you-dont-need-icons-here-are-100-unicode-symbols-that-you-can-use)
 - [cssicon](http://cssicon.space/) icon set made with pure css code, no dependencies, "grab and go" icons
 - [Iconfont](http://iconfont.cn/) 阿里巴巴矢量图标库
 - [Fontello](http://fontello.com/) icon fonts generator
