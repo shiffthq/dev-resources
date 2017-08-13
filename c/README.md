@@ -39,9 +39,17 @@ fragmentation avoidance and scalable concurrency support.
 
 ### Miscellaneous
 - [Error Helpers in C](http://mattjohnston.co/posts/2017/01/09/error-helpers-in-c.html)
+- [Variadic Macros](https://gcc.gnu.org/onlinedocs/cpp/Variadic-Macros.html)
 
 ### FAQs
 - [comp.lang.c Frequently Asked Questions](http://c-faq.com/)
+- [C 语言常见问题集](http://c-faq-chn.sourceforge.net/ccfaq/ccfaq.html)
+- [Tips on Programming](http://users.bestweb.net/~ctips/)
+- [pthread的各种同步机制](https://casatwy.com/pthreadde-ge-chong-tong-bu-ji-zhi.html)
+- [多线程的那点儿事](http://blog.csdn.net/feixiaoxing/article/details/7064559)
+- [The Lost Art of C Structure Packing](http://www.catb.org/esr/structure-packing/)
+- [Guide to Advanced Programming in C](http://pfacka.binaryparadise.com/articles/guide-to-advanced-programming-in-C.html?utm_source=statuscode&utm_medium=email)
+- [Coroutines in C](https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html)
 
 ### Books
 - [Modern C](http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf)
