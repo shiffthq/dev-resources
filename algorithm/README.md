@@ -1,5 +1,7 @@
 ## Algorithms that maybe helpful
 
+- [Core algorithms deployed](https://cstheory.stackexchange.com/questions/19759/core-algorithms-deployed/)
+
 ### Time complexity and Big-O notation
 - [Big-O Complexity Chart](http://bigocheatsheet.com/) Big-O Algorithm Complexity Cheat Sheet
 
