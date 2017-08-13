@@ -107,6 +107,10 @@
 ### Test
 - [TestCafe](https://devexpress.github.io/testcafe/) Automated browser testing for the modern web development stack.
 
+### Blogs
+- [CodyHouse](https://codyhouse.co/) A free library of HTML, CSS, JS nuggets
+- [Codrops](https://tympanus.net/codrops/) Useful resources and inspiration for creative minds
+
 ### Miscellaneous
 - [Headroom.js](https://github.com/WickyNilliams/headroom.js) Give your pages some headroom. Hide your header until you need it
 - [magic-of-css](https://github.com/adamschwartz/magic-of-css) A CSS course for web developers who want to be magicians.
