@@ -3,6 +3,7 @@
 ### Kernel
 - [Kernel 101 – Let’s write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
 - [Review of Operating Systems](http://tunes.org/Review/OSes.html)
+- [Booting a PC](https://pdos.csail.mit.edu/6.828/2014/labs/lab1/)
 
 ### Online Books
 - [The little book about OS development](http://littleosbook.github.io/)
