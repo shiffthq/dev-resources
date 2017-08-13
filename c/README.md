@@ -54,3 +54,5 @@ fragmentation avoidance and scalable concurrency support.
 ### Books
 - [Modern C](http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf)
 
+### Articles
+- [POSIX定时器:timer_settime()](http://kimi.it/508.html)
