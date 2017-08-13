@@ -19,6 +19,7 @@
 - [Color Hunt](http://www.colorhunt.co/)
 - [Palet Table](http://www.palettable.io/)
 - [Color Thief](http://lokeshdhakar.com/projects/color-thief/) Grab the color palette from an image.
+- [COLORS](http://clrs.cc/) A nicer color palette for the web.
 
 ### CSS Reset
 - [normalize.css](https://github.com/necolas/normalize.css/) A modern alternative to CSS resets
