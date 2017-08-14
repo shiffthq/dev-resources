@@ -36,3 +36,5 @@
 
 ### Sort
 - [常见排序算法](http://blog.jqian.net/post/sorting-algorithm.html)
+
+- [500 Data Structures and Algorithms practice problems and their solutions](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions?srid=5qd2)
