@@ -12,6 +12,13 @@
 - [joe](https://github.com/karan/joe) A .gitignore magician in your command line
 - [gitignore.io](https://www.gitignore.io/) Create useful .gitignore files for your project
 
+### Badges
+- [Shield IO](https://shields.io/)
+- [NodeICO](https://nodei.co/) classy node.js badges, that's all
+- [Version Badge](https://badge.fury.io/)
+- [GoCover.io](https://gocover.io/)
+- [Travis](https://docs.travis-ci.com/user/status-images/)
+
 ### .travis.yml
 - [Travis WebLint](http://lint.travis-ci.org/) Valid your .tavis.yml file
 
