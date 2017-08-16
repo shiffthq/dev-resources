@@ -50,6 +50,7 @@
 
 ### Network Debug
 [Network Link Conditioner](http://nshipster.com/network-link-conditioner/)
+[tc](http://lartc.org/manpages/tc.txt)
 
 ### History
 - [The TTY demystified](http://www.linusakesson.net/programming/tty/index.php)
