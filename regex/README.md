@@ -5,3 +5,6 @@
 - [RegExp Tool](http://www.gethifi.com/tools/regex)
 - [Regex101](https://regex101.com/) online regex editor and debugger
 - [Regulex](https://jex.im/regulex) JavaScript Regular Expression Visualizer.
+
+### Tutorial
+- [Learn regex the easy way](https://github.com/zeeshanu/learn-regex)

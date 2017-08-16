@@ -17,6 +17,7 @@
 - [NodeICO](https://nodei.co/) classy node.js badges, that's all
 - [Version Badge](https://badge.fury.io/)
 - [GoCover.io](https://gocover.io/)
+- [Go Report Card](https://goreportcard.com/)
 - [Travis](https://docs.travis-ci.com/user/status-images/)
 
 ### .travis.yml
