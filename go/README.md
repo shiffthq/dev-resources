@@ -2,6 +2,8 @@
 
 ### Basic
 - [Go by Example](https://gobyexample.com/) 
+- [Best Practices for Errors in Go](https://justinas.org/best-practices-for-errors-in-go/)
+- [How to use interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
 
 ### Web Framework
 - [echo](https://echo.labstack.com/) High performance, extensible, minimalist Go web framework
@@ -12,3 +14,6 @@
 ### Library
 - [Golang Libs](https://golanglibs.com/)
 - [gin](https://github.com/codegangsta/gin) Live reload utility for Go web servers
+
+### Books
+- [Learning Go](https://www.miek.nl/go/)
