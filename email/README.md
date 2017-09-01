@@ -6,6 +6,9 @@
 - [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template) When all you need is a really simple HTML email template.
 - [mailgen](https://github.com/eladnava/mailgen) A Node.js package that generates clean, responsive HTML e-mails for sending transactional mail.
 - [litmus](https://litmus.com/community/templates) Modern email templates designed by the best email designers in the business. Easy to use and completely free.
+- [Bojler](http://bojler.slicejack.com/) Bojler is an email framework for developing responsive and lightweight email templates that will render correctly across each of the most popular email clients.
+- [Email Framework](https://github.com/g13nn/Email-Framework) Responsive HTML Email Framework
+- [Cerberus](https://github.com/TedGoas/Cerberus) A few simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail.
 
 ### Newsletters
 - [MailChimp](http://mailchimp.com/) Send better email. Sell more stuff.
