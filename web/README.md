@@ -78,6 +78,7 @@
 
 ### Highlight
 - [Highlight.js](https://github.com/isagalaev/highlight.js) Javascript syntax highlighter
+- [Prism](https://github.com/PrismJS/prism) Lightweight, robust, elegant syntax highlighting.
 
 ### Lazy Loading
 - [layzr.js](https://github.com/callmecavs/layzr.js) A small, fast, and modern library for lazy loading images.
