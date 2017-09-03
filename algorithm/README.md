@@ -31,6 +31,9 @@
 #### FarmHash by Google
 - [FarmHash](https://github.com/google/farmhash)
 
+#### xxHash
+- [xxHash](https://github.com/Cyan4973/xxHash) Extremely fast non-cryptographic hash algorithm
+
 ### String
 - [EXACT STRING MATCHING ALGORITHMS](http://www-igm.univ-mlv.fr/%7Elecroq/string/)
 
