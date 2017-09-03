@@ -5,6 +5,9 @@
 - [Best Practices for Errors in Go](https://justinas.org/best-practices-for-errors-in-go/)
 - [How to use interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
 
+### Test
+- [is](https://github.com/matryer/is) Professional lightweight testing mini-framework for Go.
+
 ### Web Framework
 - [echo](https://echo.labstack.com/) High performance, extensible, minimalist Go web framework
 
