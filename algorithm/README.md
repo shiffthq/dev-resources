@@ -18,6 +18,7 @@
 - [Hash Functions](http://www.cse.yorku.ca/~oz/hash.html)
 - [A Hash Function for Hash Table Lookup](http://www.burtleburtle.net/bob/hash/doobs.html)
 - [Hash functions: An empirical comparison](https://www.strchr.com/hash_functions)
+- [Which hashing algorithm is best for uniqueness and speed?](https://softwareengineering.stackexchange.com/questions/49550/which-hashing-algorithm-is-best-for-uniqueness-and-speed)
 
 #### MurmurHash
 - [MurmurHash](https://sites.google.com/site/murmurhash/)
@@ -33,6 +34,9 @@
 
 #### xxHash
 - [xxHash](https://github.com/Cyan4973/xxHash) Extremely fast non-cryptographic hash algorithm
+
+#### jodyhash
+- [jodyhash](https://github.com/jbruchon/jodyhash) Jody Bruchon's hashing function (and a command-line tool for it)
 
 ### String
 - [EXACT STRING MATCHING ALGORITHMS](http://www-igm.univ-mlv.fr/%7Elecroq/string/)
