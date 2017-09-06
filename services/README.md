@@ -52,3 +52,4 @@
 - [RequestBin](https://requestb.in/) Inspect HTTP Requests
 - [any@lias.com](https://anyalias.com/) Unlimited free disposable email addresses
 - [Library Genesis](http://gen.lib.rus.ec/)
+- [ASCII Generator](http://www.network-science.de/ascii/)
