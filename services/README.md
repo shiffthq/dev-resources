@@ -51,3 +51,4 @@
 - [httpbin](https://httpbin.org/) HTTP Request & Response Service
 - [RequestBin](https://requestb.in/) Inspect HTTP Requests
 - [any@lias.com](https://anyalias.com/) Unlimited free disposable email addresses
+- [Library Genesis](http://gen.lib.rus.ec/)
