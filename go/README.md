@@ -4,6 +4,7 @@
 - [Go by Example](https://gobyexample.com/) 
 - [Best Practices for Errors in Go](https://justinas.org/best-practices-for-errors-in-go/)
 - [How to use interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
+- [Go Data Structures: Interfaces](https://research.swtch.com/interfaces)
 
 ### Test
 - [is](https://github.com/matryer/is) Professional lightweight testing mini-framework for Go.
