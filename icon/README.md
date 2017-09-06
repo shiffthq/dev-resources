@@ -13,3 +13,5 @@
 - [Fileicon.css](https://github.com/picturepan2/fileicon.css) The customizable pure CSS file icons
 - [Titanic](https://github.com/icons8/titanic) A set of animated icons + code to insert them into the webpages
 - [Devicon](http://konpa.github.io/devicon/) Devicon is a set of icons representing programming languages, designing & development tools. You can use it as a font or directly copy/paste the svg code into your project.
+- [Simple Icons](https://simpleicons.org/) Free SVG icons for popular brands
+- [iconate.js](https://github.com/bitshadow/iconate) Transform your icons with trendy animations.
