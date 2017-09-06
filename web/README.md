@@ -6,6 +6,7 @@
 
 ### CSS Framework
 - [Bulma](https://github.com/jgthms/bulma) A modern CSS framework based on Flexbox
+- [buefy](https://github.com/rafaelpimpa/buefy/) Lightweight UI components for Vue.js based on Bulma
 - [hack](https://github.com/egoist/hack) Dead simple CSS framework.
 - [Primer CSS](https://github.com/primer/primer) The base coat of GitHub. Our internal CSS toolkit and guidelines.
 - [Simole Grid](https://github.com/zachacole/Simple-Grid) A simple, lightweight CSS grid
@@ -47,7 +48,8 @@
 - [Vivify](http://vivify.mkcreative.cz/) Vivify is free CSS animation library.
 
 ### Tooltips
-- [Balloon.css](https://github.com/kazzkiq/balloon.css) Simple tooltips made of pure CSS
+- [Microtip](https://ghosh.github.io/microtip/) A modern, elegant and minimal, css only tooltip library
+- [Balloon.css](https://github.com/ghosh/microtip) Simple tooltips made of pure CSS
 - [Tippy.js](https://github.com/atomiks/tippyjs) A lightweight, pure JS tooltip library
 
 ### Loaders
@@ -100,6 +102,12 @@
 
 ### Test
 - [TestCafe](https://devexpress.github.io/testcafe/) Automated browser testing for the modern web development stack.
+
+### Time
+- [Tinytime](https://github.com/aweary/tinytime) A straightforward date and time formatter in <1kb
+
+### String
+- [strman](https://github.com/dleitee/strman) A Javascript string manipulation library.
 
 ### Blogs
 - [CodyHouse](https://codyhouse.co/) A free library of HTML, CSS, JS nuggets
