@@ -29,3 +29,4 @@
 - [Python 3 Module of the Week](https://pymotw.com/3/)
 - [Python Hash Algorithms](http://effbot.org/zone/python-hash.htm)
 - [Python dictionary implementation](http://www.laurentluce.com/posts/python-dictionary-implementation/)
+- [What the f*ck Python?](https://github.com/satwikkansal/wtfPython) A collection of interesting, subtle, and tricky Python snippets.
