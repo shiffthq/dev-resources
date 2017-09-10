@@ -13,6 +13,7 @@
 
 ### NodeJS Deploy
 - [Now](https://zeit.co/now) realtime node.js deployments
+- [Netlify](https://www.netlify.com/) Deploy modern static websites with Netlify.
 - [dawson](https://dawson.sh/) a serverless framework for Node.js on AWS
 - [Denali](http://denalijs.org/) A robust Node.js framework for building ambitious APIs.
 
