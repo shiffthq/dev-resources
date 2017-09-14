@@ -7,6 +7,9 @@
 ### CHANGELOG
 - [Keep a CHANGELOG](http://keepachangelog.com/en/0.3.0/) Don’t let your friends dump git logs into CHANGELOGs
 
+### README
+- [Make a README](https://www.makeareadme.com/) Because no one can read your mind
+
 ### .gitignore
 - [gitignore](https://github.com/github/gitignore) A collection of useful .gitignore templates
 - [joe](https://github.com/karan/joe) A .gitignore magician in your command line
