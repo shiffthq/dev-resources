@@ -10,6 +10,10 @@
 ### Benchmark
 - [Benchmark.js](https://github.com/bestiejs/benchmark.js)
 
+### You Don't Know
+- [wtfjs](https://github.com/denysdovhan/wtfjs) A list of funny and tricky JavaScript examples
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) A book series on JavaScript.
+
 ### Code Style
 - [Popular Coding Convention on Github](http://sideeffect.kr/popularconvention) Analyze Github commits to know which convention is popular.
 - [Prettier](https://github.com/prettier/prettier) Prettier is an opinionated JavaScript formatter.
