@@ -15,6 +15,7 @@
 - [Primer CSS](https://github.com/primer/primer) The base coat of GitHub. Our internal CSS toolkit and guidelines.
 - [Simole Grid](https://github.com/zachacole/Simple-Grid) A simple, lightweight CSS grid
 - [Flexbox Grid](https://github.com/kristoferjoseph/flexboxgrid) Grid based on CSS3 flexbox
+- [mini.css](https://github.com/Chalarangelo/mini.css) A minimal, responsive, style-agnostic CSS framework!
 
 ### Color
 - [iColor](https://github.com/lvwzhen/icolor) The beautiful color scheme
