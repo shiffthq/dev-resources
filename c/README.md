@@ -57,3 +57,4 @@ fragmentation avoidance and scalable concurrency support.
 
 ### Articles
 - [POSIX定时器:timer_settime()](http://kimi.it/508.html)
+- [Build Your Own Text Editor](http://viewsourcecode.org/snaptoken/kilo/index.html)
