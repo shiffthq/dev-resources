@@ -9,6 +9,7 @@
 - [Bojler](http://bojler.slicejack.com/) Bojler is an email framework for developing responsive and lightweight email templates that will render correctly across each of the most popular email clients.
 - [Email Framework](https://github.com/g13nn/Email-Framework) Responsive HTML Email Framework
 - [Cerberus](https://github.com/TedGoas/Cerberus) A few simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail.
+- [heml](https://github.com/SparkPost/heml) HEML is an open source markup language for building responsive email.
 
 ### Newsletters
 - [MailChimp](http://mailchimp.com/) Send better email. Sell more stuff.
