@@ -32,6 +32,7 @@
 - [snyk](https://snyk.io/) A tool help you use open source without compromising security.
 - [David](https://david-dm.org/) Watching your node.js dependencies.
 - [Gemnasium](https://gemnasium.com/) Gemnasium parses your project's dependencies and notifies you when new versions are released or they need to be updated.
+- [renovate](https://renovateapp.com/) Keep npm dependencies up-to-date
 
 ### Monitor
 - [Trace by RisingStack](https://trace.risingstack.com/) Node.js Debugging and Performance Monitoring
