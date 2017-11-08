@@ -26,6 +26,8 @@
 - [Palet Table](http://www.palettable.io/)
 - [Color Thief](http://lokeshdhakar.com/projects/color-thief/) Grab the color palette from an image.
 - [COLORS](http://clrs.cc/) A nicer color palette for the web.
+- [LOLCOLORS](https://www.webdesignrankings.com/resources/lolcolors/) Curated color palette inspiration.
+- [coolors](https://coolors.co/) The super fast color schemes generator!
 
 ### CSS Reset
 - [normalize.css](https://github.com/necolas/normalize.css/) A modern alternative to CSS resets
