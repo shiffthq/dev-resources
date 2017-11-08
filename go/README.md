@@ -6,6 +6,10 @@
 - [How to use interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
 - [Go Data Structures: Interfaces](https://research.swtch.com/interfaces)
 - [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
+- [Context API explained](https://siadat.github.io/post/context)
+
+### Debug
+- [Using the Go tracer to speed up fractal making](https://campoy.cat/blog/using-the-go-tracer-to-speed-up-fractal-making/)
 
 ### Test
 - [is](https://github.com/matryer/is) Professional lightweight testing mini-framework for Go.
