@@ -8,6 +8,9 @@
 - [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
 - [Context API explained](https://siadat.github.io/post/context)
 
+### Data Structure and Algorithms
+- [Data Structure and Algorithms](http://www.golangprograms.com/data-structure-and-algorithms.html)
+
 ### Debug
 - [Using the Go tracer to speed up fractal making](https://campoy.cat/blog/using-the-go-tracer-to-speed-up-fractal-making/)
 
