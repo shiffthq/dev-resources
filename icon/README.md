@@ -16,3 +16,4 @@
 - [Simple Icons](https://simpleicons.org/) Free SVG icons for popular brands
 - [iconate.js](https://github.com/bitshadow/iconate) Transform your icons with trendy animations.
 - [Noun Project](https://thenounproject.com/) Icons for everything
+- [IconBros](https://www.iconbros.com/) 170+ free and continuously growing high quality icons
