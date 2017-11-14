@@ -59,3 +59,4 @@
 - [any@lias.com](https://anyalias.com/) Unlimited free disposable email addresses
 - [Library Genesis](http://gen.lib.rus.ec/)
 - [ASCII Generator](http://www.network-science.de/ascii/)
+- [NameQL](https://www.nameql.com/) Type to find a great name
