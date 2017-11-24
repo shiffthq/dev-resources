@@ -1,5 +1,7 @@
 ## GIT
 
+- [Flight rules for git](https://github.com/k88hudson/git-flight-rules) A guide for astronauts (now, programmers using git) about what to do when things go wrong.
+
 ### Commit Message
 - [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
 - [Commitizen for contributors](https://github.com/commitizen/cz-cli) The commitizen command line utility.
