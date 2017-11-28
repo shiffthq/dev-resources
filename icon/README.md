@@ -17,3 +17,4 @@
 - [iconate.js](https://github.com/bitshadow/iconate) Transform your icons with trendy animations.
 - [Noun Project](https://thenounproject.com/) Icons for everything
 - [IconBros](https://www.iconbros.com/) 170+ free and continuously growing high quality icons
+- [Super Tiny Social Icons](https://github.com/edent/SuperTinyIcons) Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. The average size is under 550 bytes!
