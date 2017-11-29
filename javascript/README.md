@@ -1,5 +1,8 @@
 ## JavaScript / Node.js
 
+### Best Practice
+- [project-guidelines](https://github.com/wearehive/project-guidelines) A set of best practices for JavaScript projects
+
 ### Articles
 - [setImmediate() vs nextTick() vs setTimeout(fn,0) – in depth explanation](http://voidcanvas.com/setimmediate-vs-nexttick-vs-settimeout/)
 
