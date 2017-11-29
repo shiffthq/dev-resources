@@ -103,6 +103,7 @@
 - [Chart.js](http://www.chartjs.org/) Simple yet flexible JavaScript charting for designers & developers
 - [CHARTIST.JS](http://gionkunz.github.io/chartist-js/) SIMPLE RESPONSIVE CHARTS
 - [Frappé Charts](https://github.com/frappe/charts) Simple, responsive, modern SVG Charts with zero dependencies.
+- [ECharts](https://github.com/ecomfe/echarts) A powerful, interactive charting and visualization library for browser
 
 ### Placeholder
 - [placeholder](https://placeholder.com/) Quick & simple image placeholders.
