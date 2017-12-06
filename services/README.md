@@ -25,6 +25,8 @@
 ### CI / CD
 - [Travis](https://travis-ci.org/) Test and Deploy Your Code with Confidence
 - [MagnumCI](https://magnum-ci.com/) Hosted Continuous Integration Platform for Private Repositories
+- [TeamCity](https://www.jetbrains.com/teamcity/) Powerful Continuous Integration out of the box
+- [flow.ci](https://flow.ci) 国内首套开源持续集成(CI) 解决方案
 
 ### Dependency Track
 - [Greenkeeper](https://greenkeeper.io/) It tracks your dependencies and applies an update to a branch for every new version coming in.
