@@ -16,6 +16,7 @@
 - [Simole Grid](https://github.com/zachacole/Simple-Grid) A simple, lightweight CSS grid
 - [Flexbox Grid](https://github.com/kristoferjoseph/flexboxgrid) Grid based on CSS3 flexbox
 - [mini.css](https://github.com/Chalarangelo/mini.css) A minimal, responsive, style-agnostic CSS framework!
+- [Muuri](https://github.com/haltu/muuri)
 
 ### Color
 - [iColor](https://github.com/lvwzhen/icolor) The beautiful color scheme
