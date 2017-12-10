@@ -1,6 +1,8 @@
 ## Dev Resources
 A list of development resources.
 
+- [TLDR](https://github.com/tldr-pages/tldr) Simplified and community-driven man pages
+
 ### Network Debug
 - [Network Link Conditioner](http://nshipster.com/network-link-conditioner/)
 - [tc](http://lartc.org/manpages/tc.txt)
