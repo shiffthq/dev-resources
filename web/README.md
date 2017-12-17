@@ -59,6 +59,7 @@
 - [Microtip](https://ghosh.github.io/microtip/) A modern, elegant and minimal, css only tooltip library
 - [Balloon.css](https://github.com/ghosh/microtip) Simple tooltips made of pure CSS
 - [Tippy.js](https://github.com/atomiks/tippyjs) A lightweight, pure JS tooltip library
+- [Popper.js](https://github.com/FezVrasta/popper.js) A library used to position poppers in web applications.
 
 ### Loaders
 - [Loaders.css](https://github.com/ConnorAtherton/loaders.css) Delightful, performance-focused pure css loading animations.
@@ -74,6 +75,7 @@
 - [clipboard.js](https://github.com/zenorocha/clipboard.js/) Modern copy to clipboard. No Flash. Just 3kb gzipped
 
 ### Device
+- [Devices.css](https://github.com/picturepan2/devices.css) Modern devices in pure CSS
 - [device.js](https://github.com/matthewhudson/device.js) Device.js makes it easy to write conditional CSS _and/or_ JavaScript based on device operating system (iOS, Android, Blackberry, Windows, Firefox OS, MeeGo), orientation (Portrait vs. Landscape), and type (Tablet vs. Mobile).
 
 ### Favicon
