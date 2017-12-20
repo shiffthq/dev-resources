@@ -1,5 +1,7 @@
 ## GIT
 
+- [Oh shit, git!](http://ohshitgit.com/)
+
 - [Flight rules for git](https://github.com/k88hudson/git-flight-rules) A guide for astronauts (now, programmers using git) about what to do when things go wrong.
 
 ### Commit Message
