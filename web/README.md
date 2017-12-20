@@ -17,6 +17,7 @@
 - [Flexbox Grid](https://github.com/kristoferjoseph/flexboxgrid) Grid based on CSS3 flexbox
 - [mini.css](https://github.com/Chalarangelo/mini.css) A minimal, responsive, style-agnostic CSS framework!
 - [Muuri](https://github.com/haltu/muuri)
+- [Shoelace](https://shoelace.style/index.html) Shoelace.css is a lightweight, forward-thinking CSS library built with future CSS syntax.
 
 ### Color
 - [iColor](https://github.com/lvwzhen/icolor) The beautiful color scheme
