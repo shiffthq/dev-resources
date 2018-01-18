@@ -18,6 +18,8 @@
 - [mini.css](https://github.com/Chalarangelo/mini.css) A minimal, responsive, style-agnostic CSS framework!
 - [Muuri](https://github.com/haltu/muuri)
 - [Shoelace](https://shoelace.style/index.html) Shoelace.css is a lightweight, forward-thinking CSS library built with future CSS syntax.
+- [Skeleton](https://github.com/dhg/Skeleton) A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
+- [lit](https://github.com/Ajusa/lit) World's smallest responsive
 
 ### Color
 - [iColor](https://github.com/lvwzhen/icolor) The beautiful color scheme
