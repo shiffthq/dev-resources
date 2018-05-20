@@ -38,6 +38,12 @@
 #### jodyhash
 - [jodyhash](https://github.com/jbruchon/jodyhash) Jody Bruchon's hashing function (and a command-line tool for it)
 
+### SipHash
+- [SipHash](https://131002.net/siphash/) SipHash is a family of pseudorandom functions (a.k.a. keyed hash functions) optimized for speed on short messages. 
+
+#### highwayhash
+- [HighwayHash](https://github.com/minio/highwayhash) HighwayHash is a pseudo-random-function (PRF) developed by Jyrki Alakuijala, Bill Cox and Jan Wassenberg (Google research). HighwayHash takes a 256 bit key and computes 64, 128 or 256 bit hash values of given messages.
+
 ### String
 - [EXACT STRING MATCHING ALGORITHMS](http://www-igm.univ-mlv.fr/%7Elecroq/string/)
 
