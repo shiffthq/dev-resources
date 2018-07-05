@@ -27,5 +27,18 @@
 - [Golang Libs](https://golanglibs.com/)
 - [gin](https://github.com/codegangsta/gin) Live reload utility for Go web servers
 
+### Quiz
+- [QUIZ YOURSELF IN GOLANG](http://pliutau.com/go-lang-test/)
+- [GOLANG PROGRAMMING QUIZ](https://golangme.com/golang-quiz)
+- [Go gotcha: newbie or ninja?](https://yourbasic.org/golang/gotcha/)
+- [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
+
 ### Books
 - [Learning Go](https://www.miek.nl/go/)
+- [Go 101](https://go101.org/article/101.html)
+
+### Articles
+- [The Go Object Lifecycle](https://middlemost.com/object-lifecycle/)
+- [理解Go Context机制](http://lanlingzi.cn/post/technical/2016/0802_go_context/)
+- [The complete guide to Go net/http timeouts](https://blog.cloudflare.com/the-complete-guide-to-golang-net-http-timeouts/)
+- [Go Memory Management](https://povilasv.me/go-memory-management)
