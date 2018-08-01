@@ -6,6 +6,7 @@ A list of development resources.
 ### Network Debug
 - [Network Link Conditioner](http://nshipster.com/network-link-conditioner/)
 - [tc](http://lartc.org/manpages/tc.txt)
+- [tc: 模拟网络异常的工具](http://colobu.com/2017/04/21/tc-introduction/)
 
 ### History
 - [The TTY demystified](http://www.linusakesson.net/programming/tty/index.php)

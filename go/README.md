@@ -45,3 +45,4 @@
 - [How to determine if a JSON key has been set to null or not provided](https://www.calhoun.io/how-to-determine-if-a-json-key-has-been-set-to-null-or-not-provided/)
 - [Understanding Nil](https://speakerdeck.com/campoy/understanding-nil)
 - [使用monkey补丁替换golang的标准库](http://xiaorui.cc/2018/04/02/%E4%BD%BF%E7%94%A8monkey%E8%A1%A5%E4%B8%81%E6%9B%BF%E6%8D%A2golang%E7%9A%84%E6%A0%87%E5%87%86%E5%BA%93/) https://github.com/bouk/monkey
+- [Go语言中自动选择json解析库](http://www.flysnow.org/2017/11/05/go-auto-choice-json-libs.html)
