@@ -42,3 +42,5 @@
 - [理解Go Context机制](http://lanlingzi.cn/post/technical/2016/0802_go_context/)
 - [The complete guide to Go net/http timeouts](https://blog.cloudflare.com/the-complete-guide-to-golang-net-http-timeouts/)
 - [Go Memory Management](https://povilasv.me/go-memory-management)
+- [How to determine if a JSON key has been set to null or not provided](https://www.calhoun.io/how-to-determine-if-a-json-key-has-been-set-to-null-or-not-provided/)
+- [Understanding Nil](https://speakerdeck.com/campoy/understanding-nil)
