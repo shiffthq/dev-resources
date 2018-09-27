@@ -14,6 +14,7 @@
 
 ### HTTPS
 - [Does my site need HTTPS?](https://doesmysiteneedhttps.com/)
+- [HOW HTTPS WORKS](https://howhttps.works/)
 
 ### CSP
 - [CSP Evaluator](https://csp-evaluator.withgoogle.com/)
