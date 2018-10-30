@@ -15,6 +15,7 @@
 ### HTTPS
 - [Does my site need HTTPS?](https://doesmysiteneedhttps.com/)
 - [HOW HTTPS WORKS](https://howhttps.works/)
+- [The Illustrated TLS Connection](https://tls.ulfheim.net/) Every byte of a TLS connection explained and reproduced.
 
 ### CSP
 - [CSP Evaluator](https://csp-evaluator.withgoogle.com/)
