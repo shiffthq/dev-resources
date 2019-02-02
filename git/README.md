@@ -34,6 +34,7 @@
 - [Choose an open source license](http://choosealicense.com/)
 - [如何选择开源许可证？](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html) [img](./free_software_licenses.png)
 - [Which Open Source License](./which-open-source-license.png)
+- [The MIT License, Line by Line](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html)
 
 ### Server
 - [gitly](https://gitly.io/) fast & powerful development service
