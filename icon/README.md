@@ -19,3 +19,4 @@
 - [IconBros](https://www.iconbros.com/) 170+ free and continuously growing high quality icons
 - [Super Tiny Social Icons](https://github.com/edent/SuperTinyIcons) Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. The average size is under 550 bytes!
 - [pixelicons](https://pixelicons.com/free-pack/) Get 300 free icons
+- [Iconscout/unicons](https://github.com/iconscout/unicons) 1000+ Pixel-perfect vector icons and Iconfont for your next project.
